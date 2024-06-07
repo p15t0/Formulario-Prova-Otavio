@@ -1,0 +1,29 @@
+#formulario {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em;
+}
+
+#tabela {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#tabela td,
+#tabela tr {
+    padding: 15px;
+    text-align: left;
+}
+
+th,
+td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+#limparTabela {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
